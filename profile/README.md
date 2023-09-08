@@ -30,7 +30,7 @@ If you need to contact the administrators or maintainers of the organization, yo
 Email: 
 - Organization : iustCompOrg@gmail.com 
 - Arvin Delavati (TA)  : arvin7807@gmail.com
-- Faraz Ghoreishy (TA) :farazghoreishy@gmail.com
+- Faraz Ghoreishy (TA) : farazghoreishy@gmail.com
 
 We are here to help and support you in your journey through IUST Computer Organization!
 
