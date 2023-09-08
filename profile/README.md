@@ -3,7 +3,7 @@ IUST Computer Organization
 Welcome to the GitHub organization for IUST Computer Organization! This organization hosts repositories for every semester that the course is presented. Each term's repository contains homework files, Verilog assignments and solutions, final project files (Verilog), and presentation files.
 
 ## Repository Structure
-The organization's repositories are structured based on the academic terms. Each term has its own repository named in the format SSSSS-YYYY, where S represents the Season and YYYY represents the year.
+The organization's repositories are structured based on the academic terms. Each term has its own repository named in the format SSSS-YYYY, where SSSS represents the Season and YYYY represents the year.
 
 Inside each term's repository, you will find the following folders:
 - Homeworks: This folder contains the homework assignments for the term. You can find the assignment files and any necessary resources or instructions within this folder.
